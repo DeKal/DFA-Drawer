@@ -1,0 +1,9 @@
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\bin\Debug\Automata Graph Draw From String.exe.config
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\Automata Graph Draw From String.exe
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\Automata Graph Draw From String.pdb
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\bin\Debug\Automata Graph Draw From String.exe
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\bin\Debug\Automata Graph Draw From String.pdb
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\DFA_0_1 From String.csprojResolveAssemblyReference.cache
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\Automata_Graph_Draw_From_String.DFADrawer.resources
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\Automata_Graph_Draw_From_String.Properties.Resources.resources
+E:\CSharp\Automata Graph Draw From String\Automata Graph Draw From String\obj\Debug\DFA_0_1 From String.csproj.GenerateResource.Cache
